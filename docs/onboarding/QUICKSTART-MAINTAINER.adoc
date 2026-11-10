@@ -19,7 +19,7 @@ UNASSIGNED
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/x15-rocket-glider.git
+git clone https://github.com/catachresis-colloquium/x15-rocket-glider.git
 cd x15-rocket-glider
 just build-release
 ----
@@ -119,5 +119,5 @@ Each instance has isolated config, data, and logs.
 
 == Reporting Issues
 
-* Upstream: https://github.com/metadatastician/x15-rocket-glider/issues
+* Upstream: https://github.com/catachresis-colloquium/x15-rocket-glider/issues
 * With diagnostic: `just help-me` (pre-fills context)

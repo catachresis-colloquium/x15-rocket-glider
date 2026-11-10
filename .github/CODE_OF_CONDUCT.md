@@ -301,7 +301,7 @@ We thank these communities for their leadership in creating welcoming spaces.
 
 If you have questions about this Code of Conduct:
 
-- Open a [Discussion](https://github.com/metadatastician/x15-rocket-glider/discussions) (for general questions)
+- Open a [Discussion](https://github.com/catachresis-colloquium/x15-rocket-glider/discussions) (for general questions)
 - Email j.d.a.jewell@open.ac.uk (for private questions)
 - Contact any maintainer directly
 

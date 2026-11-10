@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: X15-rocket-glider
 Upstream-Contact: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
-Source: https://github.com/metadatastician/x15-rocket-glider
+Source: https://github.com/catachresis-colloquium/x15-rocket-glider
 
 # Default: all files are MPL-2.0
 Files: *

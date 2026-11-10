@@ -603,7 +603,7 @@ help-me:
     @echo "Shell: $SHELL"
     @echo ""
     @echo "To report an issue:"
-    @echo "  https://github.com/metadatastician/x15-rocket-glider/issues/new"
+    @echo "  https://github.com/catachresis-colloquium/x15-rocket-glider/issues/new"
     @echo ""
     @echo "Include the output of 'just doctor' in your report."
 

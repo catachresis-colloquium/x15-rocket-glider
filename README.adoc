@@ -36,7 +36,7 @@ f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-gli
 ----
 
 The line is coordinated by
-https://github.com/metadatastician/stealth-glider-ecosystem[stealth-glider-ecosystem],
+https://github.com/catachresis-colloquium/stealth-glider-ecosystem[stealth-glider-ecosystem],
 which holds the canonical chain, the membership manifest and the series roadmap.
 This repository's own lineage record is
 `machine-readable/descriptiles/ECOSYSTEM.a2ml`.

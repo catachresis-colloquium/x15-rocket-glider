@@ -18,7 +18,7 @@ what-this-is-not = [
 position = "fourth Stealth Glider investigation"
 chain = "f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption"
 notes = "Reserved slot with intent recorded 2026-09-02 (owner ruling). Intent is not work begun: the phase stays reserved until the first content lands by pull request; until then this repository holds its identity, its place in the line, the recorded intent and the estate scaffold."
-coordination = "metadatastician/stealth-glider-ecosystem"
+coordination = "catachresis-colloquium/stealth-glider-ecosystem"
 
 [related-projects]
 projects = [

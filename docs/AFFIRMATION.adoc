@@ -83,7 +83,7 @@ file. Bring a counter-example, a failing run, or a contradicting source.
 [cols="1,3"]
 |===
 | Project | X15-rocket-glider
-| Repository | https://github.com/metadatastician/x15-rocket-glider
+| Repository | https://github.com/catachresis-colloquium/x15-rocket-glider
 | Commit (SHA) | <full commit SHA at time of signing>
 | Branch | main
 | Timestamp (UTC) | <ISO-8601 UTC timestamp>

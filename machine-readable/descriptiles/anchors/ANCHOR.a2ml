@@ -9,7 +9,7 @@ last-updated = "2026-09-02"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/x15-rocket-glider"
+repo = "catachresis-colloquium/x15-rocket-glider"
 authority = "upstream-canonical"
 
 purpose = [
@@ -26,7 +26,7 @@ domain = "Stealth Glider line: reserved fourth investigation, scope not yet spec
 
 [semantic-authority]
 policy = "satellite"
-upstream = "metadatastician/stealth-glider-ecosystem"
+upstream = "catachresis-colloquium/stealth-glider-ecosystem"
 
 owns = [
   "Project semantics and specification",
@@ -58,6 +58,6 @@ roadmap = "docs/status/ROADMAP.adoc"
 lineage = "machine-readable/descriptiles/ECOSYSTEM.a2ml"
 
 [upstream.hub]
-repo = "metadatastician/stealth-glider-ecosystem"
+repo = "catachresis-colloquium/stealth-glider-ecosystem"
 path = "machine-readable/descriptiles/ECOSYSTEM.a2ml"
 pin = "TODO-tag"

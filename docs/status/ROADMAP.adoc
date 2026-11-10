@@ -6,7 +6,7 @@
 
 Reserved, with intent recorded. This is the fourth investigation in the Stealth
 Glider line. The series roadmap lives in the coordination hub,
-https://github.com/metadatastician/stealth-glider-ecosystem[stealth-glider-ecosystem].
+https://github.com/catachresis-colloquium/stealth-glider-ecosystem[stealth-glider-ecosystem].
 
 == Intent (recorded 2026-09-02, owner ruling)
 
