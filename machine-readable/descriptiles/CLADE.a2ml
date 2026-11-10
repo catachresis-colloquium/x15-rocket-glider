@@ -15,7 +15,7 @@
 # fact anyone can recompute and check — never copy one from another repo, and
 # never make one up. Recompute this one any time with:
 #
-#     uuidgen --sha1 --namespace @url --name "github.com/metadatastician/x15-rocket-glider"
+#     uuidgen --sha1 --namespace @url --name "github.com/catachresis-colloquium/x15-rocket-glider"
 #
 # Verify the method first by reproducing a known worked example:
 #     janus example -> e216170e-ff47-5a5c-bbdd-15e61c8190c8
@@ -23,9 +23,9 @@
 # The owner segment is part of the derived name, so it is part of the IDENTITY:
 # the same repo hosted under a different owner has a different uuid. Record the
 # owner that is TRUE TODAY, and re-derive if it ever moves.
-uuid = "4516116f-185d-5777-95ee-f90376a96539"
+uuid = "1729b409-e08d-569a-82c9-fc150dde9eea"
 primary-forge = "github"
-primary-owner = "metadatastician"
+primary-owner = "catachresis-colloquium"
 canonical-name = "x15-rocket-glider"
 prefixed-name = "gm-x15-rocket-glider"
 
@@ -83,7 +83,7 @@ assigned = "2026-09-02"
 rationale = "Reserved member of the Stealth Glider line (Conway-lawful interactive experiences); inherits the line's clade until its own intent is specified."
 
 [forges]
-github = "metadatastician/x15-rocket-glider"
+github = "catachresis-colloquium/x15-rocket-glider"
 gitlab = ""       # populated if/when mirrored
 bitbucket = ""    # populated if/when mirrored
 

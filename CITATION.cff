@@ -7,8 +7,8 @@ authors:
 title: "X15-rocket-glider"
 version: 0.1.0
 date-released: "2026-09-02"
-url: "https://github.com/metadatastician/x15-rocket-glider"
-repository-code: "https://github.com/metadatastician/x15-rocket-glider"
+url: "https://github.com/catachresis-colloquium/x15-rocket-glider"
+repository-code: "https://github.com/catachresis-colloquium/x15-rocket-glider"
 license: MPL-2.0
 keywords:
   - "rsr"

@@ -84,8 +84,8 @@ FROM cgr.dev/chainguard/wolfi-base:latest
 # OCI image labels (compatible with cerro-torre .ctp bundle metadata)
 LABEL org.opencontainers.image.title="X15-rocket-glider" \
       org.opencontainers.image.description="Fourth Stealth Glider investigation: scope not yet specified. Reserved placeholder in the metadatastician Stealth Glider line." \
-      org.opencontainers.image.url="https://github.com/metadatastician/x15-rocket-glider" \
-      org.opencontainers.image.source="https://github.com/metadatastician/x15-rocket-glider" \
+      org.opencontainers.image.url="https://github.com/catachresis-colloquium/x15-rocket-glider" \
+      org.opencontainers.image.source="https://github.com/catachresis-colloquium/x15-rocket-glider" \
       org.opencontainers.image.vendor="metadatastician" \
       org.opencontainers.image.licenses="MPL-2.0" \
       org.opencontainers.image.authors="Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>" \

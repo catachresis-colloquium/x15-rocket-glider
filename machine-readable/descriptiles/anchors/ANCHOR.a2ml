@@ -9,7 +9,7 @@ last-updated = "2026-09-02"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/x15-rocket-glider"
+repo = "catachresis-colloquium/x15-rocket-glider"
 authority = "upstream-canonical"
 
 purpose = [

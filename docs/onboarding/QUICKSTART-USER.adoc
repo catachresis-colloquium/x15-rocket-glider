@@ -38,7 +38,7 @@ Before you begin, ensure you have:
 [source,bash]
 ----
 # Clone and set up
-git clone https://github.com/metadatastician/x15-rocket-glider.git
+git clone https://github.com/catachresis-colloquium/x15-rocket-glider.git
 cd x15-rocket-glider
 just setup
 ----
@@ -103,7 +103,7 @@ just heal
 * **In-app**: `just run --help`
 * **Guided tour**: `just tour`
 * **Report a problem**: `just help-me` (pre-fills diagnostic context)
-* **Wiki**: https://github.com/metadatastician/x15-rocket-glider/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/x15-rocket-glider/wiki
 
 == Uninstall
 
