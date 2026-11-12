@@ -59,7 +59,7 @@ TypeScript is permitted under Bun. The "use ReScript" rule is retired — ReScri
 
 # This repo: `x15-rocket-glider`  ·  clade `gm-x15-rocket-glider`
 
-- **Identity** — uuid `1729b409-e08d-569a-82c9-fc150dde9eea`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/x15-rocket-glider`.
+- **Identity** — uuid `4516116f-185d-5777-95ee-f90376a96539`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/x15-rocket-glider`.
 - **IS** — Fourth Stealth Glider investigation (reserved): introduces resource mechanics — munitions and fuel — onto the live Conway field. Intent recorded 2026-09-02 (owner ruling); no implementation yet.
 - **IS-NOT** — a shipped or playable game · a specification of the resource mechanics (only the intent is recorded) · a rename or fork of any earlier Stealth Glider project · the coordination hub for the line
 - **Where it sits** — pipeline position **fourth Stealth Glider investigation**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.
